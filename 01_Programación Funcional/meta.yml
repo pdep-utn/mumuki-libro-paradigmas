@@ -1,0 +1,20 @@
+chapters:
+- pdep-utn/mumuki-guia-funcional-valores-y-funciones
+- pdep-utn/mumuki-guia-funcional-practica-valores-y-funciones
+- pdep-utn/mumuki-guia-funcional-intoduccion-tipos-de-dato
+- pdep-utn/mumuki-guia-funcional-practica-introduccion-tipos-de-dato
+- pdep-utn/mumuki-guia-funcional-aplicacion-parcial-y-orden-superior
+- pdep-utn/mumuki-guia-funcional-practica-aplicacion-parcial-y-orden-superior
+- pdep-utn/mumuki-guia-funcional-funciones-partidas-pattern-matching-tuplas
+- pdep-utn/mumuki-guia-funcional-practica-funciones-partidas
+- pdep-utn/mumuki-guia-funcional-inferencia-de-tipos
+- pdep-utn/mumuki-guia-funcional-listas
+- pdep-utn/mumuki-guia-funcional-practica-listas
+- pdep-utn/mumuki-guia-funcional-practica-listas-por-comprension
+- pdep-utn/mumuki-guia-funcional-practica-expresiones-lambda
+- pdep-utn/mumuki-guia-funcional-practica-fold-concatmap
+- pdep-utn/mumuki-guia-funcional-practica-evaluacion-diferida
+- pdep-utn/mumuki-guia-funcional-recursividad
+- pdep-utn/mumuki-guia-funcional-practica-recursividad
+- pdep-utn/mumuki-guia-funcional-modelado
+- pdep-utn/mumuki-guia-funcional-practica-chocobos
